@@ -1,0 +1,5 @@
+{
+  "name": "HIPO",
+  "description": "A minimal second brain that uses AI to convert copied text into spaced repetition flashcards.",
+  "requestFramePermissions": []
+}
